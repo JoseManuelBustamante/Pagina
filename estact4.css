@@ -1,0 +1,134 @@
+.papa{
+	position: absolute;
+	top: 10px;
+	left: 300px;
+	width: 1000px;
+	height: 500px;
+	background: black;
+}
+.h1{
+	position: absolute;
+	top: 10px;
+	left: 100px;
+	width: 800px;
+	height: 120px;
+	background: gray;
+}
+.n1{
+	position: absolute;
+	top: 15px;
+	left: 30px;
+	width: 740px;
+	height: 90px;
+	background: url(act41.png);
+	background-size: cover;
+}
+.n2{
+    position: absolute;
+    top: 10px; 
+    left: 80px;
+    width: 600px; 
+    height: 70px;
+    background: rgba(0 ,0 ,0 ,0.7);
+
+}
+@font-face{
+	font-family: texto1;
+	src: url(ys.ttf);
+}
+.t1{
+	position: absolute;
+	top: 3px;
+	left: 190px;
+	font-family: texto1;
+	font-size: 50px;
+	color: white;
+}
+.h2{
+	position: absolute;
+	top: 170px;
+	left: 30px;
+	width: 430px;
+	height: 290px;
+	background: white;
+}
+.n3{
+	position: absolute;
+    top: 35px; 
+    left: 40px;
+    width: 350px; 
+    height: 200px;
+    background: rgba(0 ,0 ,0 ,0.6);
+}
+@font-face{
+	font-family: texto2;
+	src: url(ls.ttf);
+}
+.t2{
+	position: absolute;
+	top: 3px;
+	left: 10px;
+	font-family: texto2;
+	font-size: 25px;
+	color: white;
+}
+.h3{
+	position: absolute;
+	top: 170px;
+	left: 530px;
+	width: 430px;
+	height: 290px;
+	background: white;
+}
+.n4{
+	position: absolute;
+	top: 15px;
+	left: 30px;
+	width: 150px;
+	height: 100px;
+	background: url(act42.jpg);
+	background-size: cover;
+}
+.n5{
+	position: absolute;
+	top: 160px;
+	left: 30px;
+	width: 150px;
+	height: 100px;
+	background: url(act43.jpg);
+	background-size: cover;
+}
+.n6{
+    position: absolute;
+    top: 40px; 
+    left: 190px;
+    width: 100px; 
+    height: 200px;
+    background: rgba(0 ,0 ,0 ,0.6);
+}
+.t3{
+	position: absolute;
+	top: 3px;
+	left: 10px;
+	font-family: texto2;
+	font-size: 20px;
+	color: white;
+}
+.n7{
+	position: absolute;
+	top: 15px;
+	left: 300px;
+	width: 120px;
+	height: 100px;
+	background: url(act44.jpg);
+	background-size: cover;
+}
+.n8{
+	position: absolute;
+	top: 160px;
+	left: 300px;
+	width: 120px;
+	height: 100px;
+	background: url(act45.jpg);
+	background-size: cover;
+}
