@@ -1,0 +1,178 @@
+.papa{
+position: absolute; 
+top:50px; 
+left:376px;
+width:900px; 
+height: 980px; 
+background:#D93434; 
+}
+.h1{
+    position: absolute;
+top:50px; 
+left:500px;
+width:680px; 
+height: 20px; 
+background:yellow; 
+}
+@font-face{
+    font-family: t;
+    src: url(pastaza.ttf);
+}
+
+.t{
+    position: absolute;
+    top:65px; 
+    left:655px;
+    font-family: t; 
+    color: yellow;
+    font-size: 70px;
+}
+@font-face{
+    font-family: t2;
+    src: url(gad.ttf);
+}
+.t2{
+    position: absolute;
+    top:152px; 
+    left:730px;
+    font-family: t2; 
+    color: yellow;
+    font-size: 20px;
+}
+@font-face{
+    font-family: t3;
+    src: url(conc.ttf);
+}
+.t3{
+    position: absolute;
+    top:250px; 
+    left:640px;
+    font-family: t3; 
+    color: yellow;
+    font-size: 60px;
+}
+@font-face{
+    font-family: ala;
+    src: url(ala.ttf);
+}
+.t4{
+    position: absolute;
+    top:310px; 
+    left:680px;
+    font-family: ala; 
+    color: white;
+    font-size: 80px;
+}
+.t5{
+    position: absolute;
+    top:340px; 
+    left:620px;
+    font-family: ala; 
+    color: white;
+    font-size: 150px;
+}
+.t6{
+    position: absolute;
+    top:470px; 
+    left:710px;
+    font-family: t3; 
+    color: yellow;
+    font-size: 30px;
+}
+.t7{
+    position: absolute;
+    top:500px; 
+    left:740px;
+    font-family: t3; 
+    color: yellow;
+    font-size: 30px;
+}
+.hoja{
+    position: absolute;
+    top:650px; 
+    left:320px;
+    width:300px; 
+    height:200px;
+    background: url("hojas.png");
+    background-size: cover;
+    transform: rotate(90deg);
+    z-index: 1;
+}
+.hoja2{
+  position: absolute;
+    top:650px; 
+    left:1040px;
+    width:300px; 
+    height:200px;
+    background: url("hojas.png");
+    background-size: cover;
+    transform: rotate(270deg);
+    z-index: 1;
+}
+
+.chile{
+    position: absolute;
+    top:750px; 
+    left:1083px;
+    width:80px; 
+    height:80px;
+    background: url("chile.png");
+    background-size: cover;
+
+}
+.colombia{
+    position: absolute;
+    top:800px; 
+    left:1100px;
+    width:50px; 
+    height:50px;
+    background: url("colombia.png");
+    background-size: cover;
+    border-radius: 200px;
+}
+.bolivia{
+    position: absolute;
+    top:840px; 
+    left:1100px;
+    width:50px; 
+    height:50px;
+    background: url("bolivia.png");
+    background-size: cover;
+    border-radius: 200px;
+}
+.ecuador{
+    position: absolute;
+    top:880px; 
+    left:1100px;
+    width:50px; 
+    height:50px;
+    background: url("ecuador.png");
+    background-size: cover;
+}
+.paraguay{
+    position: absolute;
+    top:920px; 
+    left:1100px;
+    width:50px; 
+    height:50px;
+    background: url("paraguay.png");
+    background-size: cover;
+}
+.uruguay{
+    position: absolute;
+    top:960px; 
+    left:1100px;
+    width:50px; 
+    height:50px;
+    background: url("uruguay.png");
+    background-size: cover;
+    border-radius: 200px;
+}
+.banderas{
+    position: absolute;
+    top:780px; 
+    left:980px;
+    font-family: t2; 
+    color: white;
+    font-size: 20px;
+}
